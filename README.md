@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Reshma👋</h1>
+<p align="center">  Software Engineer | Data Analyst</h1> </P>
+<p align="center">  🚀 Turning ideas into automated, scalable infrastructure — one commit at a time.
+</p>
 
-<!--
-**Reshma-S-K/Reshma-S-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+### Work Experience
+🧑‍💼 Currently working as a Software Engineer at **MOVATE Technologies**.
+```
+💡 I build log analysis using SQL and Excel
+🛠  Passionate about build advanced data and cloud infrastructure design.
+😄 Pronouns: She/her
+```
